@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/51.4">
+    <id>net.play5d.obvn.mac.classic</id>
+    <filename>BleachVsNaruto-3.4-Mac</filename>
+    <name>死神 vs 火影 3.4</name>
+    <versionNumber>3.4.0</versionNumber>
+    <initialWindow>
+        <content>ClassicMain.swf</content>
+        <title>死神 vs 火影 3.4</title>
+        <visible>true</visible>
+        <width>800</width>
+        <height>600</height>
+        <renderMode>gpu</renderMode>
+    </initialWindow>
+</application>
